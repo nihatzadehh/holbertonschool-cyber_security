@@ -1,1 +1,1 @@
-tcp.proto == 1
+tcp.flags.syn == 1
