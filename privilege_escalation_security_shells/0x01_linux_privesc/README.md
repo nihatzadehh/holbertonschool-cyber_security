@@ -49,4 +49,4 @@ Throughout this project, I explored and practiced key local privilege escalation
 ---
 
 ## 👤 Author
-* **Nihat Mammadzada**
+* **Nihat Mammadzada (NOT CHATGPT, TRUST ME BRO)**
